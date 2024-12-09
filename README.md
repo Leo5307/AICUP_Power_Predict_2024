@@ -20,7 +20,7 @@
 5. 所使用的額外數據集——氣象局資料：
   -	數據集來自Raingel的台灣歷史氣象觀測資料庫專案：https://github.com/Raingel/historical_weather。
   -	他是將中央氣象局建置之氣象觀測站以及農委會之農業氣象觀測網的資料每一天更新到 data 文件夾裡。
-  -	其中每一小時能得到的資料類別和CODiS 氣候觀測資料查詢服務（https://codis.cwa.gov.tw/StationData）能查詢到的是一樣的。
+  -	其中每一小時能得到的資料類別和CODiS 氣候觀測資料查詢服務(https://codis.cwa.gov.tw/StationData) 能查詢到的是一樣的。
   -	由於作者是逐日更新，因此會有過去每天每小時的數據。
   -	因此使用上述專案的資料比起 Codis 網站能省下逐日下載數據的麻煩。
   -	使用了其中的兩個檔案：466990_2024.csv 和 C0Z100_2024.csv
